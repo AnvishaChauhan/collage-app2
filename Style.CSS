@@ -1,0 +1,17 @@
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+img
+{
+    box-shadow: 0 8px 6px 0 rgba(2, 2, 2, 0.2);
+}
+
+img:hover
+{
+border-radius: 180px;
+}
